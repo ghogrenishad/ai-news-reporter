@@ -1,2 +1,2 @@
 # ai-news-reporter
-This tool utilizes LangChain4j and Java Spring Boot. Users can query an eNews pdf document and geta quick insights of the daily news.
+This tool utilizes LangChain4j, Java, and Spring Boot. Users can query an eNews pdf document and get quick insights into the daily news.
